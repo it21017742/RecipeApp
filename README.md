@@ -85,7 +85,7 @@ The app's landing page will display, and you can sign up or log in to start mana
 
 ## Contributors
 
-- [Sasindu Fernando](https://github.com/it21085444) - Project Developer
+- [Dushan Rathnakumara](https://github.com/it21017742) - Project Developer
 
 ## License
 
